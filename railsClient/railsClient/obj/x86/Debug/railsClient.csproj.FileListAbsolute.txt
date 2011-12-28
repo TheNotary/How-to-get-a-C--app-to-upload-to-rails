@@ -3,3 +3,5 @@ C:\Users\Macklehatton\Desktop\NET projects\railsClient\railsClient\bin\Debug\rai
 C:\Users\Macklehatton\Desktop\NET projects\railsClient\railsClient\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Macklehatton\Desktop\NET projects\railsClient\railsClient\obj\x86\Debug\railsClient.exe
 C:\Users\Macklehatton\Desktop\NET projects\railsClient\railsClient\obj\x86\Debug\railsClient.pdb
+C:\Users\Macklehatton\Desktop\rails_workshop\railsClient\railsClient\obj\x86\Debug\railsClient.exe
+C:\Users\Macklehatton\Desktop\rails_workshop\railsClient\railsClient\obj\x86\Debug\railsClient.pdb

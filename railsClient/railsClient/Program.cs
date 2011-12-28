@@ -1,5 +1,5 @@
 ﻿// compiles with 
-// $  gmcs railsClient.cs
+// $  gmcs Program.cs
 
 using System;
 using System.Diagnostics;

@@ -1,0 +1,9 @@
+This Repo contains two different applications
+
+1)  "library" is the rails application.  Start that application up by the usual "rails server" command.  
+
+Browse to /books to see where the action is at.  
+
+2)  "railsClient" is where the C# client resides.  You can compile the .cs file in there on the command line on linux with "$  gmcs /railsClient/railsClient/Program.cs"  or use visual studio.  
+
+To use the executable generated, just follow it's instructions, specifying the full url to the /books controller when prompted (your IP address will be something like 192.168.1.x, right?)
